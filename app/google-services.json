@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "881125565344",
+    "project_id": "zamstudios-projects",
+    "storage_bucket": "zamstudios-projects.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881125565344:android:4c68fb1c2af9e8e5237ac5",
+        "android_client_info": {
+          "package_name": "com.example.animalworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881125565344-j1avoklr7otve4otugpcjaqhhsuqbkn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRruIC6JzfKzbDVmrKj3O417GeL8IPl_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881125565344-j1avoklr7otve4otugpcjaqhhsuqbkn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
